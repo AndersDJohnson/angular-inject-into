@@ -1,0 +1,31 @@
+{
+  "name": "angular-inject-into",
+  "version": "1.0.0",
+  "description": "Angular injection into object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anders D. Johnson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndersDJohnson/angular-inject-into.git"
+  },
+  "keywords": [
+    "angular",
+    "framework",
+    "browser",
+    "client-side",
+    "inject",
+    "assign",
+    "assignment",
+    "boilerplate",
+    "DRY"
+  ],
+  "devDependencies": {
+    "angular": "^1.6.0",
+    "angular-mocks": "^1.6.0",
+    "jasmine": "^2.5.2"
+  }
+}
