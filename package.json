@@ -1,6 +1,6 @@
 {
   "name": "angular-inject-into",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular injection into object.",
   "main": "index.js",
   "scripts": {
