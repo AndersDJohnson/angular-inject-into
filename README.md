@@ -24,10 +24,10 @@ describe('test', function () {
   var $http;
   var $location;
 
-  beforeEach(inject(function (_$rootScope_, $_http_, $_location_) {
+  beforeEach(inject(function (_$rootScope_, _$http_, _$location_) {
     $rootScope = _$rootScope_;
     $http = _$http_;
-    $location = $_location_;
+    $location = _$location_;
   }));
 
   it('inject', function () {
