@@ -1,12 +1,12 @@
 {
   "name": "angular-inject-into",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular injection into object.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
